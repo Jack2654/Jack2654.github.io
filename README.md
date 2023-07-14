@@ -1,2 +1,2 @@
-# Jack2654.github.io
+# https://www.jackmorgenstein.com
 Resume Website
