@@ -32,7 +32,8 @@ li a:hover {
 }
 
 .active_style {
-    background-color: #04AA6D;
+    background-color: #ffffff;
+    color: black;
 }
 
 p {
